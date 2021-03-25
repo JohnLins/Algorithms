@@ -1,4 +1,4 @@
-public class LinearSort
+public class InsertionSor
 {
 	public static void main(String[] args) {
 	int[] arr = {0, 4, 2, 4};
