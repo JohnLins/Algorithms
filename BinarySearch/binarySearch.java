@@ -41,7 +41,7 @@ public class BinarySearcher
      BinarySearcher mine = new BinarySearcher();  
      int[] a = {1, 2, 3, 6, 9, 11};
          
-     //System.out.println(mine.search(a, 0, a.length, 1));
+     System.out.println(mine.search(a, 0, a.length, 1));
      System.out.println(mine.anotherSearch(a, 0, a.length, 1));
     }
   
